@@ -9,6 +9,19 @@ BEIRA, short for **Brain EEG-fMRI Reconstruction Autoencoder**, is a final-year 
 
 The goal is to explore whether fast, accessible EEG signals can be used to reconstruct slower BOLD activity patterns observed in fMRI.
 
+## Publication
+
+This project is published as a Springer book chapter:
+
+**Deep Learning Model for Decoding Subcortical Brain Activity from Simultaneous EEG-FMRI Multi-modal Data**  
+Akash Sasikumar, Divya Sasidharan, V. Sowmya, Vinayakumar Ravi  
+In *Machine Learning and Deep Learning Modeling and Algorithms with Applications in Medical and Health Care*, Springer Series in Reliability Engineering, Springer, Cham.
+
+- Published: 01 October 2025
+- Pages: 157-185
+- DOI: [10.1007/978-3-031-98728-1_9](https://doi.org/10.1007/978-3-031-98728-1_9)
+- Springer chapter: [link.springer.com/chapter/10.1007/978-3-031-98728-1_9](https://link.springer.com/chapter/10.1007/978-3-031-98728-1_9)
+
 ## Project Snapshot
 
 | Area | What this project demonstrates |
@@ -18,6 +31,7 @@ The goal is to explore whether fast, accessible EEG signals can be used to recon
 | Neuroimaging | Extracted fMRI ROI signals using Nilearn and Harvard-Oxford atlas utilities. |
 | ML Engineering | Created reusable modules for datasets, preprocessing, training, inference, metrics, and visualization. |
 | Research Workflow | Used notebooks for experimentation and scripts for repeatable model components. |
+| Publication | Published as a Springer book chapter on EEG-fMRI deep learning for subcortical brain activity decoding. |
 
 ## Results Preview
 
