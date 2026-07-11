@@ -98,7 +98,6 @@ The inference utilities report:
 The included experiment artifacts show a validation correlation checkpoint around `0.4325` for the saved run.
 
 ## Main Technologies
-
 - Python
 - PyTorch
 - MNE
