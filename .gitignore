@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/editor
+.idea/
+.vscode/
+
+# Experiment tracking and generated outputs
+wandb/
+figures/
+plots/
+outputs/
+runs/
+checkpoints/
+
+# Local data artifacts
+Dataset/
+data/
+*.nii
+*.set
+*.mat
+
+# OS files
+.DS_Store
+Thumbs.db

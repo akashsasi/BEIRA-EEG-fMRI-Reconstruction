@@ -1,0 +1,15 @@
+torch
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+mne
+nilearn
+scikit-learn
+tqdm
+wandb
+geoopt
+pytorch-model-summary
+notebook
+ipykernel
