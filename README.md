@@ -231,8 +231,3 @@ This project strengthened practical experience in:
 - Add automated training configuration files.
 - Improve checkpoint handling with Git LFS or release assets.
 - Package the preprocessing pipeline into a command-line interface.
-
-## Author
-
-**Akash Sasi**  
-Final Year Project: EEG-to-fMRI reconstruction using deep learning
